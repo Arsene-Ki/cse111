@@ -14,7 +14,7 @@ def make_periodic_table():
     second item is the element's atomic mass.
     """
     periodic_table_dict = {
-        # symbol: [name, atomic_mass]
+        
         "Ac": ["Actinium", 227],
         "Ag": ["Silver", 107.8682],
         "Al": ["Aluminum", 26.9815386],
